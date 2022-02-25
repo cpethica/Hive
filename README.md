@@ -28,4 +28,4 @@ Hive_External_Midi:
 Plays incoming midi rather than from file
 
 
-[Hive - Making Of](https://www.youtube.com/watch?v=dT_0UvmPg9I&t=40s)
+[Hive - Making Of](https://www.youtube.com/watch?v=dT_0UvmPg9I)
