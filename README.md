@@ -2,9 +2,8 @@
 
 Midi controlled, solenoid driven gamelan.
 
-![](Images/.jpg)
+![](Images/gamelan.jpeg)
 
-![](Images/.jpg)
 
 ## Hardware
 
@@ -14,7 +13,7 @@ Arduino Mega
 
 Solenoids - be careful of maximum current draw!
 
-![](Images/.jpg)
+![](Images/brain.jpeg)
 
 
 ## Software
@@ -27,3 +26,6 @@ Allows the gamelan to be played by a 24 channel capacitive touch interface
 
 Hive_External_Midi:
 Plays incoming midi rather than from file
+
+
+[Hive - Making Of](https://www.youtube.com/watch?v=dT_0UvmPg9I&t=40s)
